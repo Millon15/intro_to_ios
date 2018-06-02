@@ -16,6 +16,7 @@
 		644768B820C1D0310037BC0C /* mapperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644768B720C1D0310037BC0C /* mapperTests.swift */; };
 		644768C320C1D0320037BC0C /* mapperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 644768C220C1D0320037BC0C /* mapperUITests.swift */; };
 		EEE3DE2320C1E586001CC8AA /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE3DE2220C1E586001CC8AA /* ThirdViewController.swift */; };
+		EEE3DE2920C1FDD2001CC8AA /* BTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE3DE2820C1FDD2001CC8AA /* BTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		644768C220C1D0320037BC0C /* mapperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mapperUITests.swift; sourceTree = "<group>"; };
 		644768C420C1D0320037BC0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EEE3DE2220C1E586001CC8AA /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		EEE3DE2820C1FDD2001CC8AA /* BTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				644768A220C1D0310037BC0C /* FirstViewController.swift */,
 				644768A420C1D0310037BC0C /* SecondViewController.swift */,
 				644768A620C1D0310037BC0C /* Main.storyboard */,
+				EEE3DE2820C1FDD2001CC8AA /* BTableViewCell.swift */,
 				644768A920C1D0310037BC0C /* Assets.xcassets */,
 				644768AB20C1D0310037BC0C /* LaunchScreen.storyboard */,
 				644768AE20C1D0310037BC0C /* Info.plist */,
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEE3DE2920C1FDD2001CC8AA /* BTableViewCell.swift in Sources */,
 				644768A520C1D0310037BC0C /* SecondViewController.swift in Sources */,
 				644768A120C1D0310037BC0C /* AppDelegate.swift in Sources */,
 				EEE3DE2320C1E586001CC8AA /* ThirdViewController.swift in Sources */,
